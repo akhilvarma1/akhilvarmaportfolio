@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/akhilvarmaportfolio/static/css/main.25a1bc32.css",
+    "main.js": "/akhilvarmaportfolio/static/js/main.8358a665.js",
+    "static/media/Whangaehu.png": "/akhilvarmaportfolio/static/media/Whangaehu.7cec9c40e2b2b70e81b1.png",
+    "static/media/Linth.png": "/akhilvarmaportfolio/static/media/Linth.fe344e83c0ac9ed47053.png",
+    "static/media/background2.png": "/akhilvarmaportfolio/static/media/background2.e2f90b334d8ee6b0b50c.png",
+    "static/media/Rangitikei.png": "/akhilvarmaportfolio/static/media/Rangitikei.f8f48d3af5d9899d26f3.png",
+    "static/media/Vorderrhein.png": "/akhilvarmaportfolio/static/media/Vorderrhein.f5e54dfd46a938e9fa29.png",
+    "index.html": "/akhilvarmaportfolio/index.html",
+    "main.25a1bc32.css.map": "/akhilvarmaportfolio/static/css/main.25a1bc32.css.map",
+    "main.8358a665.js.map": "/akhilvarmaportfolio/static/js/main.8358a665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a1bc32.css",
+    "static/js/main.8358a665.js"
+  ]
+}
